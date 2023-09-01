@@ -1,0 +1,1 @@
+nom =("Entrer votre nom:")
